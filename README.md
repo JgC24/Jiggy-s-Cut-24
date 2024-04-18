@@ -1,6 +1,6 @@
 # Jiggy's Cut 24 - Whatever that is!
 
-![alt text](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled.jpg)
+![ Jiggy's Cut 24 - Whatever that is!](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled.jpg)
 
 
 (Pictures soon)
