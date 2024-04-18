@@ -34,7 +34,7 @@
 
 ### Installation:
 
-1. Download the [Wabbajack file](https://drive.google.com/file/d/1NgYin5rZKcrdfURm-69esaXi9hSW2CUP/view?usp=drive_link)
+1. Download the Wabbajack file
 2. Run Wabbajack and click install form drive. Select the wabbajack file you downloaded , chose the installation and downloads folder you desire and click start.
 3. When the installation is done download those 3 files , extract them and place them into the "mods" folder of the installation. [File 1](https://drive.google.com/file/d/1baCb0G-WoNs2sdUFMCNzZ0FtAOSOmAXL/view?usp=drive_link) [File 2](https://drive.google.com/file/d/1apdiHvrf0yh6Dece_O2LZIE8O5xjv_l_/view?usp=drive_link) [File 3](https://drive.google.com/file/d/1i5JmF6sPxJu4Zn9NJLTRu77BcjZj0Jvi/view?usp=drive_link).
 
