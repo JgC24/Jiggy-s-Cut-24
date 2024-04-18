@@ -3,9 +3,9 @@
 
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled.jpg)
 
-| Load Order Library | Second Header |
+| Load Order Library | Nexus Mod Page |
 | ------------- | ------------- |
-| [Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | Content Cell  |
+| [Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | [Nexus Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/117086)   |
 
 
 
