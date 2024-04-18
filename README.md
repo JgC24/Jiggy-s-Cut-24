@@ -12,7 +12,9 @@
 
 
 
+### Requirements:
 
+- Skyrim Anniversary Edition with the paid CC Creations
 
 (Pictures soon)
 ### Pre-Installation:
