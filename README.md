@@ -15,8 +15,8 @@
 
 ### Recommended:
 
-1.Set [Pagefile](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/introduction-to-the-page-file) 20-40 GB
-2.In your GPC Control panel make sure that Maximum Performance is prefered in Power settings, when running Skyrim
+1. Set [Pagefile](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/introduction-to-the-page-file) 20-40 GB
+2. In your GPC Control panel make sure that Maximum Performance is prefered in Power settings, when running Skyrim
 3. For NVIDIA Users: Set ShaderCache at 10GB
 
 
