@@ -1,7 +1,12 @@
 # Jiggy's Cut 24 - Whatever that is!
 (Pictures soon)
 
-[Load Order](https://loadorderlibrary.com/lists/jiggys-cut-24)
+| First Header  | Second Header |
+| ------------- | ------------- |
+|[Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | Content Cell  | Content Cell  |
+
+
+
 
 (Pictures soon)
 ### Pre-Installation:
