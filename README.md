@@ -39,14 +39,14 @@
 ### Installation:
 
 1. Download the Wabbajack file
-2. Run Wabbajack and click install form drive. Select the wabbajack file you downloaded , chose the installation and downloads folder you desire and click start.
+2. Run Wabbajack and click install form drive. Select the wabbajack file you downloaded ,installation and downloads folders and click start.
 
 ### Post-Installation:
 
-1. Open the installation folder you chose and file ModOrganizer2.exe . This is the launcher for the modlist.
+1. Open the installation folder of the modlist and find ModOrganizer2.exe . This is the launcher for the modlist.
 2. Run Mod Organizer, set CPU affinity.
 3. Check the Optionals Seperators to see which mods you want enabled or not
-4. Start the game by running JC Test.
+4. Start the game by running Skyrim - JC Test Version.
 
 ### Key-binds
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Keybinds.png)
