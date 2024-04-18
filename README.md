@@ -2,9 +2,6 @@
 
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled.jpg)
 
-
-(Pictures soon)
-
 | Load Order Library | Second Header |
 | ------------- | ------------- |
 | [Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | Content Cell  |
