@@ -1,4 +1,4 @@
-<span style="font-size:1.5em;">Jiggy's Cut 24 - Whatever that is!</span>
+# README Jiggy's Cut 24 - Whatever that is!
 
 <details>
 <summary>Installation:</summary>
