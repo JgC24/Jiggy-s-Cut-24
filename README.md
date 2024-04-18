@@ -45,4 +45,7 @@
 3. Check the Optionals Seperators to see which mods you want enabled or not
 4. Start the game by running JC Test.
 
+### Key-binds
+![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Keybinds.png)
+
 
