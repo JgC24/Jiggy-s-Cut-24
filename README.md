@@ -1,4 +1,4 @@
-# README Jiggy's Cut 24 - Whatever that is!
+# Jiggy's Cut 24 - Whatever that is!
 
 <details>
 <summary>Installation:</summary>
