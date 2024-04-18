@@ -10,6 +10,7 @@
 5. Reinstall Skyrim into a location that is not Program files. Somewhere like C:\Games is a good location. If you only have one drive, look into [LostDragonist's SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game launcer once and let it do the graphics check. Close the launcher.
 7. Launch the game again to the main menu and allow it to download all the Creation Club addon files. Do not tab out of the game window untill it is done. If the download of the addons doesnt start when you enter the game navigate into Creations menu -> Options -> Downloads all owned CC Creations.
+8. After the CC Addons downloads are done close the game.
 8. Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.
 
 
