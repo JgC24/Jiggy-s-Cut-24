@@ -2,7 +2,7 @@
 (Pictures soon)
 
 
-| ------------- | ------------- |
+
 |[Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | Content Cell  |
 
 
