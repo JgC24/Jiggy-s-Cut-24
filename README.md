@@ -3,7 +3,7 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-|[Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | Content Cell  | Content Cell  |
+|[Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | Content Cell  |
 
 
 
