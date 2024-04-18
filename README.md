@@ -13,4 +13,10 @@
 8. After the CC Addons downloads are done close the game.
 8. Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.
 
+### Recommended:
+
+1.Set [Pagefile](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/introduction-to-the-page-file) 20-40 GB
+2.In your GPC Control panel make sure that Maximum Performance is prefered in Power settings, when running Skyrim
+3. For NVIDIA Users: Set ShaderCache at 10GB
+
 
