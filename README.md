@@ -1,4 +1,5 @@
 # UNDER CONSTRUCTION
+# BETA VERSION
 # Jiggy's Cut 24 - Whatever that is!
 
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled.jpg)
