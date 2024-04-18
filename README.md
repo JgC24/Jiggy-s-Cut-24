@@ -1,4 +1,7 @@
 # Jiggy's Cut 24 - Whatever that is!
+(Pictures soon)
+
+##[Load Order](https://loadorderlibrary.com/lists/jiggys-cut-24)
 
 (Pictures soon)
 ### Pre-Installation:
