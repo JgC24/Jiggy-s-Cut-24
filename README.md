@@ -1,6 +1,6 @@
 # Jiggy's Cut 24 - Whatever that is!
 
-
+(Pictures soon)
 ### Pre-Installation:
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
@@ -19,5 +19,18 @@
 1. Set [Pagefile](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/introduction-to-the-page-file) 20-40 GB
 2. In your GPC Control panel make sure that Maximum Performance is prefered in Power settings, when running Skyrim
 3. For NVIDIA Users: Set ShaderCache at 10GB
+
+### Installation:
+
+1. Download the Wabbajack file
+2. Run Wabbajack and click install form drive. Select the wabbajack file you downloaded , chose the installation and downloads folder you desire and click start.
+3. When the installation is done download those 3 files , extract them and place them into the "mods"folder of the installation. [File 1](https://drive.google.com/file/d/1baCb0G-WoNs2sdUFMCNzZ0FtAOSOmAXL/view?usp=drive_link) [File 2](https://drive.google.com/file/d/1apdiHvrf0yh6Dece_O2LZIE8O5xjv_l_/view?usp=drive_link) [File 3](https://drive.google.com/file/d/1i5JmF6sPxJu4Zn9NJLTRu77BcjZj0Jvi/view?usp=drive_link).
+
+### Post-Installation:
+
+1. Open the installation folder you chose and file ModOrganizer2.exe . This is the launcher for the modlist.
+2. Run Mod Organizer, set CPU affinity.
+3. Check the Optionals Seperators to see which mods you want enabled or not
+4. Start the game by running JC Test.
 
 
