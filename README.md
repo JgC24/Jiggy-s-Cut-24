@@ -15,7 +15,7 @@
 ### Requirements:
 
 - Skyrim Anniversary Edition with the paid CC Creations
-- [Nexus mods](https://www.nexusmods.com) account. Premium is recommended to have a complete automated installation.
+- [Nexus mods](https://www.nexusmods.com) account. Premium is recommended to have a completely automated installation.
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
 
 (Pictures soon)
