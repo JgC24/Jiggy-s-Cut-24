@@ -13,4 +13,4 @@
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These will mess with the installation and, in the case of the latter, causes more problems than it solves.
 9. Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.
 
-This site was built using [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)/).
+This site was built using [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)).
