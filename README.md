@@ -1,7 +1,7 @@
 # Jiggy's Cut 24 - Whatever that is!
 
 <details>
-<summary>Installation:</summary>
+<summary># Pre-Installation:</summary>
 
 | Step | Step |
 |-----:|-----------|
