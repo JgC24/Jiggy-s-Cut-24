@@ -3,7 +3,7 @@
 
 ### Pre-Installation:
 
-1. Install Visual C++ x64 & .Net Runtime v5 desktop x64.
+1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not automatically update.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
@@ -13,4 +13,4 @@
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These will mess with the installation and, in the case of the latter, causes more problems than it solves.
 9. Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.
 
-This site was built using [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)).
+
