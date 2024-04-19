@@ -10,7 +10,16 @@
 
 ### Legend
 
-### Quick Description
+[1. Quick Description](#Quick-Description:)
+[2. Requirements](#Requirements:)
+[3. Pre-Installation](#Pre-Installation:)
+[4. Recommended](#Recommended:)
+[5. Installation](#Installation:)
+[6. Post-Installation](#Post-Installation:)
+[7. Key-binds](#Key-binds:)
+
+
+### Quick Description:
 
 This and that
 
@@ -50,7 +59,7 @@ This and that
 3. Check the Optionals Seperators to see which mods you want enabled or not
 4. Start the game by running Skyrim - JC Test Version.
 
-### Key-binds
+### Key-binds:
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Keybinds.png)
 
 
