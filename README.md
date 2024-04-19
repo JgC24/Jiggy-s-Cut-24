@@ -23,8 +23,8 @@ This and that
 
 
 
-# Requirements
-<details>
+<details><summary># Requirements</summary>
+
 
 - Skyrim Anniversary Edition with the paid CC Creations
 - [Nexus mods](https://www.nexusmods.com) account. Premium is recommended to have a completely automated installation.
