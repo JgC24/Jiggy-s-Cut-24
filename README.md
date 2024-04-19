@@ -2,7 +2,7 @@
 # BETA VERSION
 # Jiggy's Cut 24 - Whatever that is!
 
-![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled.jpg)
+![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled3.jpg)
 
 | Load Order Library | Nexus Mod Page | Wabbajack FIle |
 | ------------- | ------------- | ------------- |
