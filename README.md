@@ -8,20 +8,20 @@
 | ------------- | ------------- | ------------- |
 | [Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | [Nexus Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/117086)   | [Wabbajack File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=492344&game_id=1704) |
 
-### Legend
-
-1. [Quick Description](#quick-Description)
-2. [Requirements](#requirements)
-3. [Pre-Installation](#pre-Installation)
-4. [Recommended](#recommended)
-5. [Installation](#installation)
-6. [Post-Installation](#post-Installation)
-7. [ Key-binds](#key-binds)
-
-
 ### Quick Description
 
 This and that
+
+### Legend
+1. [Requirements](#requirements)
+2. [Pre-Installation](#pre-Installation)
+3. [Recommended](#recommended)
+4. [Installation](#installation)
+5. [Post-Installation](#post-Installation)
+6. [ Key-binds](#key-binds)
+
+
+
 
 ### Requirements
 
