@@ -10,13 +10,13 @@
 
 ### Legend
 
-[1. Quick Description](#quick-Description)
-[2. Requirements](#requirements)
-[3. Pre-Installation](#pre-Installation)
-[4. Recommended](#recommended)
-[5. Installation](#installation)
-[6. Post-Installation](#post-Installation)
-[7. Key-binds](#key-binds)
+1. [Quick Description](#quick-Description)
+2. [Requirements](#requirements)
+3. [Pre-Installation](#pre-Installation)
+4. [Recommended](#recommended)
+5. [Installation](#installation)
+6. [Post-Installation](#post-Installation)
+7. [ Key-binds](#key-binds)
 
 
 ### Quick Description
