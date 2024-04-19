@@ -12,7 +12,7 @@
 
 This and that
 
-### Legend
+## Legend
 1. [Requirements](#requirements)
 2. [Pre-Installation](#pre-Installation)
 3. [Recommended](#recommended)
