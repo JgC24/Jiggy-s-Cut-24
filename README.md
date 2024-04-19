@@ -25,12 +25,13 @@ This and that
 
 # Requirements
 <details>
-<summary>My top languages</summary>
+
 - Skyrim Anniversary Edition with the paid CC Creations
 - [Nexus mods](https://www.nexusmods.com) account. Premium is recommended to have a completely automated installation.
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
+
 </details>
-(Pictures soon)
+
 ### Pre-Installation
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
