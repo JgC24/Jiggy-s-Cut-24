@@ -10,27 +10,27 @@
 
 ### Legend
 
-[1. Quick Description](#quick-Description:)
-[2. Requirements](#requirements:)
-[3. Pre-Installation](#pre-Installation:)
-[4. Recommended](#recommended:)
-[5. Installation](#installation:)
-[6. Post-Installation](#post-Installation:)
-[7. Key-binds](#key-binds:)
+[1. Quick Description](#quick-Description)
+[2. Requirements](#requirements)
+[3. Pre-Installation](#pre-Installation)
+[4. Recommended](#recommended)
+[5. Installation](#installation)
+[6. Post-Installation](#post-Installation)
+[7. Key-binds](#key-binds)
 
 
-### Quick Description:
+### Quick Description
 
 This and that
 
-### Requirements:
+### Requirements
 
 - Skyrim Anniversary Edition with the paid CC Creations
 - [Nexus mods](https://www.nexusmods.com) account. Premium is recommended to have a completely automated installation.
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
 
 (Pictures soon)
-### Pre-Installation:
+### Pre-Installation
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Make sure Skyrim does [not automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -41,18 +41,18 @@ This and that
 7. Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.
 8. Download the latest version of Wabbajack and place it in a folder such as C:\Games\Wabbajack. Do not place it in program files, in your documents, on your desktop, or in your downloads folder.
 
-### Recommended:
+### Recommended
 
 1. Set [Pagefile](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/introduction-to-the-page-file) 20-40 GB
 2. In your GPC Control panel make sure that Maximum Performance is prefered in Power settings, when running Skyrim
 3. For NVIDIA Users: Set ShaderCache at 10GB
 
-### Installation:
+### Installation
 
 1. Download the Wabbajack file
 2. Run Wabbajack and click install form drive. Select the wabbajack file you downloaded ,installation and downloads folders and click start.
 
-### Post-Installation:
+### Post-Installation
 
 1. Open the installation folder of the modlist and find ModOrganizer2.exe . This is the launcher for the modlist.
 2. Run Mod Organizer, set CPU affinity.
