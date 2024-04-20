@@ -9,10 +9,7 @@
 # Quick Description
 
 Description text here
-&nbsp; 
-&nbsp; 
-&nbsp; 
-
+<br/><br/><br/><br/>
 
 
 <h2 style="font-size: 18;">More Info:</h2>
