@@ -8,7 +8,7 @@
 | ------------- | ------------- | ------------- |
 | [Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | [Nexus Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/117086)   | [Wabbajack File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=492344&game_id=1704) |
 
-### Quick Description
+# Quick Description
 
 
 <details><summary>Quest Expansions</summary>More info</details>
@@ -22,7 +22,7 @@
 <details><summary>Cabbage ENB</summary>More info</details>
 
 
-## Legend
+# Legend
 1. [Requirements](#requirements)
 2. [Pre-Installation](#pre-Installation)
 3. [Recommended](#recommended)
