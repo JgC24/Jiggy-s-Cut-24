@@ -21,7 +21,7 @@
 Description text here
 <br/><br/><br/><br/>
 
-<p style="font-size:30px">More Info:</p>
+<p style="font-size:130px">More Info:</p>
 <h2 style="font-size: 18;">More Info:</h2>
 <details><summary>Quest Expansions</summary>More info</details>
 <details><summary>A lil bit of every rim</summary>More info</details>
