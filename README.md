@@ -1,8 +1,6 @@
-# BETA VERSION - UNDER CONSTRUCTION
+# BETA VERSION - UNDER CONSTRUCTION - Jiggy's Cut 24 - Whatever that is!
 
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled3.jpg)
-
-# Jiggy's Cut 24 - Whatever that is!
 
 | Load Order Library | Nexus Mod Page | Wabbajack FIle |
 | ------------- | ------------- | ------------- |
