@@ -10,7 +10,17 @@
 
 ### Quick Description
 
-This and that
+
+-Quest Expansions
+-A lil bit of every rim
+-ESLA
+-Harder progression
+-MCO
+-SkyValor , blade and blunt 
+-Vanilla+
+-Graphics
+-Cabbage ENB
+
 
 ## Legend
 1. [Requirements](#requirements)
