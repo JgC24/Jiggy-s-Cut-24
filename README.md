@@ -9,8 +9,11 @@
 # Quick Description
 
 Description text here
+
 \
+
 \
+
 
 <h2 style="font-size: 18;">More Info:</h2>
 <details><summary>Quest Expansions</summary>More info</details>
