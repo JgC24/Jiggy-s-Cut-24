@@ -11,15 +11,15 @@
 ### Quick Description
 
 
-- Quest Expansions
-- A lil bit of every rim
-- ESLA
-- Harder progression
-- MCO
-- SkyValor , blade and blunt 
-- Vanilla+
-- Graphics
-- Cabbage ENB
+<details><summary>Quest Expansions</summary>More info</details>
+<details><summary>A lil bit of every rim</summary>More info</details>
+<details><summary>ESLA</summary>More info</details>
+<details><summary>Harder progression</summary>More info</details>
+<details><summary>MCO</summary>More info</details>
+<details><summary>SkyValor , blade and blunt </summary>More info</details>
+<details><summary>Vanilla+</summary>More info</details>
+<details><summary>Graphics</summary>More info</details>
+<details><summary>Cabbage ENB</summary>More info</details>
 
 
 ## Legend
