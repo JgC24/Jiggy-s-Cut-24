@@ -1,4 +1,4 @@
-<h1 style="font-size: 30;">BETA VERSION - UNDER CONSTRUCTION - Jiggy's Cut 24</h1>
+# BETA VERSION - UNDER CONSTRUCTION - Jiggy's Cut 24
 
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled3.jpg)
 
