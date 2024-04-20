@@ -10,6 +10,8 @@
 
 Description text here
 
+
+More Info:
 <details><summary>Quest Expansions</summary>More info</details>
 <details><summary>A lil bit of every rim</summary>More info</details>
 <details><summary>ESLA</summary>More info</details>
