@@ -1,4 +1,4 @@
-# BETA VERSION - UNDER CONSTRUCTION - Jiggy's Cut 24
+# UNDER CONSTRUCTION - Jiggy's Cut 24 0.7.1
 
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Untitled3.jpg)
 
