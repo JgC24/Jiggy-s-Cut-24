@@ -10,6 +10,7 @@
 
 # Quick Description
 
+Description text here
 
 <details><summary>Quest Expansions</summary>More info</details>
 <details><summary>A lil bit of every rim</summary>More info</details>
