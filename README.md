@@ -4,7 +4,7 @@
 
 | Load Order Library | Nexus Mod Page | Wabbajack FIle |
 | ------------- | ------------- | ------------- |
-| [Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | [Nexus Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/117086)   | [Wabbajack File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=493004&game_id=1704) |
+| [Load Order Library](https://loadorderlibrary.com/lists/jiggys-cut-24)  | [Nexus Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/117086)   | [Wabbajack File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=493108&game_id=1704) |
 
 # Content
 1. [Quick Description](#quick-description)
