@@ -71,6 +71,6 @@ Description text here
 4. Start the game by running Skyrim - JC Test Version.
 
 # Key-binds:
-![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/Keybinds.png)
+![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/KEYBINDS.png)
 
 
