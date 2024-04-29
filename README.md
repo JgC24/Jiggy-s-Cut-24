@@ -68,7 +68,7 @@ Description text here
 1. Open the installation folder of the modlist and find ModOrganizer2.exe . This is the launcher for the modlist.
 2. Run Mod Organizer, set CPU affinity.
 3. Check the Optionals Seperators to see which mods you want enabled or not
-4. Start the game by running Skyrim - JC Test Version.
+4. Start the game by running Skyrim - Jiggy's Cut 0.8.
 
 # Key-binds:
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/KEYBINDS.png)
