@@ -1,4 +1,4 @@
-# UNDER CONSTRUCTION - Jiggy's Cut 0.7.2
+# UNDER CONSTRUCTION - Jiggy's Cut 0.8
 
 ![](https://github.com/JgC24/Jiggy-s-Cut-24/blob/main/icon.jpg)
 
